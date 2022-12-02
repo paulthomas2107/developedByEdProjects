@@ -1,0 +1,7 @@
+Next steps:
+  1: cd moviedb
+  2: npm install (or pnpm install, etc)
+  3: git init && git add -A && git commit -m "Initial commit" (optional)
+  4: npm run dev -- --open
+
+To close the dev server, hit Ctrl-C
